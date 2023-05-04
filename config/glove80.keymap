@@ -27,8 +27,6 @@
 
 / {
     behaviors {
-        #include "macros.dtsi"
-
         // Hold taps
         nht: numpad_layer_hold_tap {
           compatible = "zmk,behavior-hold-tap";
