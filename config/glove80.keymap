@@ -175,7 +175,7 @@
             &kp F1        &kp F2   &kp F3   &kp F4        &kp F5   &kp F6                                                                      &kp F10  &kp F11   &kp F12    &kp F13   &kp F14    &kp LC(LA(LEFT_GUI))
             &kp DELETE    &kp Q    &kp W    &lt F NUMPAD  &kp R    &kp T                                                                       &kp J    &kp N7   &kp N8     &kp N9     &kp SEMI   &kp F17
             &kp TAB       HM_A     HM_R     HM_S          &kp T    &kp G                                                                       &kp M    &kp N4   &kp N5     &kp N6     &kp O      &dsq
-            &kp KP_MINUS  &kp Z    &kp X    &kp C         &kp D    &kp V   &ESC      &none     &kp HOME     &none  &none        &kp PAGE_UP    &kp K    &kp N1   &kp N2     &kp N3     &kp SLASH  &kp UNDERSCORE
+            &kp KP_MINUS  &kp Z    &kp X    &kp C         &kp D    &kp V   &kp ESC      &none     &kp HOME     &none  &none        &kp PAGE_UP    &kp K    &kp N1   &kp N2     &kp N3     &kp SLASH  &kp UNDERSCORE
             &td_cc        &kp F20  &kp F21  &kp LEFT      &kp RIGHT        &kp BKSP  &td_shft  &kp END      &none  &sl SYMBOLS  &kp SPACE      &kp UP   &kp N0   &kp DOT    &kp EQUAL  &kp F23    &kp F24
           >;
         };
@@ -187,7 +187,7 @@
             &kp F1        &kp F2       &kp F3           &kp F4         &kp F5         &kp F6                                                                            &kp F10  &kp F11   &kp F12    &kp F13   &kp F14    &kp LC(LA(LEFT_GUI))
             &kp DELETE    &kp PERCENT  &kp AT           &td_cbr        &kp DOLLAR     &kp PIPE                                                                          &kp J    &kp L     &kp U      &kp Y     &kp SEMI   &kp F17
             &kp TAB       &kp HASH     &kp TILDE        &td_prn        &kp KP_EQUAL   &kp KP_PLUS                                                                       &kp M    &kp N     &kp E      &kp I     &kp O      &dsq
-            &kp KP_MINUS  &kp CARET    &kp EXCLAMATION  &td_bkt        &kp AMPERSAND  &kp ASTERISK   &ESC      &none     &kp HOME     &none  &none        &kp PAGE_UP   &kp K    &kp H     &kp COMMA  &kp DOT   &kp SLASH  &kp UNDERSCORE
+            &kp KP_MINUS  &kp CARET    &kp EXCLAMATION  &td_bkt        &kp AMPERSAND  &kp ASTERISK   &kp ESC      &none     &kp HOME     &none  &none        &kp PAGE_UP   &kp K    &kp H     &kp COMMA  &kp DOT   &kp SLASH  &kp UNDERSCORE
             &td_cc        &kp F20      &kp F21          &kp BACKSLASH  &kp GRAVE                     &kp BKSP  &td_shft  &kp END      &none  &sl SYMBOLS  &kp SPACE     &kp UP   &kp DOWN  &kp F22    &kp F23   &kp F24
           >;
         };
