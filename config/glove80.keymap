@@ -164,8 +164,8 @@
             &kp F1        &kp F2   &kp F3   &kp F4        &kp F5   &kp F6                                                                           &kp F10  &kp F11   &kp F12    &kp F13   &kp F14   &kp LC(LA(LEFT_GUI))
             &kp DELETE    &kp Q    &kp W    &lt F NUMPAD  &kp R    &kp T                                                                            &kp J    &kp L     &kp U      &kp Y     &kp SEMI  &kp F17
             &kp TAB       HM_A     HM_R     HM_S          &kp T    &kp G                                                                            &kp M    &kp N     &kp E      &kp I     &kp O     &dsq
-            &kp KP_MINUS  &kp Z    &kp X    &kp C         &kp D    &kp V   &ESC      &none     &kp HOME     &tog MOERGO  &none        &kp PAGE_UP   &kp K    &kp H     &kp COMMA  &kp DOT   &kp FSLH  &kp UNDERSCORE
-            &td_cc        &kp F20  &kp F21  &kp LEFT      &kp RIGHT        &kp BKSP  &td_shft  &kp END      &none        &sl SYMBOLS  &kp SPACE     &kp UP   &kp DOWN  &kp F22    &kp F23   &kp F24
+            &kp KP_MINUS  &kp Z    &kp X    &kp C         &kp D    &kp V   &ESC      &none     &kp HOME     &tog MOERGO  &none        &kp PAGE_UP   &kp K    &kp H     &kp COMMA  &kp DOT   &kp FSLH  &kp none
+            &none        &kp F20  &kp F21  &kp LEFT      &kp RIGHT        &kp BKSP  &td_shft  &kp END      &none        &sl SYMBOLS  &kp SPACE     &kp UP   &kp DOWN  &kp F22    &kp F23   &kp F24
           >;
         };
 
