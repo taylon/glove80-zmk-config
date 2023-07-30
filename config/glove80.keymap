@@ -37,8 +37,8 @@
           #binding-cells = <2>;
           tapping-term-ms = <200>;
           quick_tap_ms = <175>;
-          flavor = "tap-unless-interrupted";
-          bindings = <&kp>, <&kp>;
+          flavor = "tap-preferred";
+          bindings = <&mo>, <&kp>;
           // this works by counting the physical keys of the keyboard
           hold-trigger-key-positions = <29 30 31 41 42 43 59 60 61 75 76 77>;
         };
@@ -185,7 +185,7 @@
             &kp F1        &kp F2   &kp F3   &kp F4         &kp F5                                                                                      &kp F6   &kp F7   &kp F8     &kp F9    &kp F10
             &kp F11       &kp F1   &kp F2   &kp F3         &kp F4   &kp F5                                                                             &kp F10  &kp 9    &kp F6     &kp F12   &kp F13    &kp LC(LA(LEFT_GUI))
             &kp DELETE    &kp Q    &kp W    &nht F NUMPAD  &kp P    &kp B                                                                              &kp J    &kp L    &kp U      &kp Y     &kp SEMI   &kp F17
-            &kp TAB       HM_A     HM_R     HM_S           &kp T    &kp G                                                                              &kp M    &kp N    &kp E      &kp I     &kp O      &dsq
+            &kp TAB       HM_A     HM_R     HM_S           &kp T    &kp G                                                                              &kp M    &kp N    HM_E       HM_I      HM_O       &dsq
             &kp KP_MINUS  &kp Z    &kp X    &kp C          &kp D    &kp V   &kp ESC   &none     &kp HOME      &tog SETTINGS  &none        &kp ENTER    &kp K    &kp H    &kp COMMA  &kp DOT   &kp SLASH  &umm
             &td_cc        &kp F20  &kp F21  &kp LEFT       &kp RIGHT        &kp BKSP  &td_shft  &kp END       &none          &sl SYMBOLS  &kp SPACE             &kp UP   &kp DOWN   &kp F10   &kp F7     &kp F14
           >;
